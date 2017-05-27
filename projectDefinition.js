@@ -1,8 +1,10 @@
 /*
-/ We're hoping to build our own javascript library here using ES06 
+/ We're hoping to build our own javascript library here using ES6 
 / syntax. We're also looking to publish it to npm so we can say how
 / awesome we are (even though it's really not that big of a deal).
-/ Some functionality is listed below.
+/ Check out some of the ES6 features here.
+/
+/ http://es6-features.org/#Constants
 */
 
 /*
